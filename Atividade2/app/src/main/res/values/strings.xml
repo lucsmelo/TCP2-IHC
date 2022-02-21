@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atividade2</string>
+    <string name="luminosidade">Luminosity not changed yet</string>
+    <string name="light">Luminosity:</string>
+    <string name="click_the_button_to_update_gps">Click the button to update GPS:</string>
+    <string name="temperature_not_changed_yet">Temperature not changed yet</string>
+    <string name="gps">GPS</string>
+    <string name="temperature">Temperature:</string>
+    <string name="not_light">Light sensor not supported</string>
+    <string name="not_temp">Temperature sensor not supported</string>
+</resources>
